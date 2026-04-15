@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.csproj.user
+
+# Sensitive config
+appsettings.json
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
